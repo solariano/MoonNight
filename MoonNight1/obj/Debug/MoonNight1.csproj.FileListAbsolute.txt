@@ -1,0 +1,7 @@
+C:\Users\solar\source\repos\MoonNight1\MoonNight1\bin\Debug\MoonNight1.exe.config
+C:\Users\solar\source\repos\MoonNight1\MoonNight1\bin\Debug\MoonNight1.exe
+C:\Users\solar\source\repos\MoonNight1\MoonNight1\bin\Debug\MoonNight1.pdb
+C:\Users\solar\source\repos\MoonNight1\MoonNight1\obj\Debug\MoonNight1.csproj.AssemblyReference.cache
+C:\Users\solar\source\repos\MoonNight1\MoonNight1\obj\Debug\MoonNight1.csproj.CoreCompileInputs.cache
+C:\Users\solar\source\repos\MoonNight1\MoonNight1\obj\Debug\MoonNight1.exe
+C:\Users\solar\source\repos\MoonNight1\MoonNight1\obj\Debug\MoonNight1.pdb
